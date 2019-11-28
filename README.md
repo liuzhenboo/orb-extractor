@@ -1,10 +1,10 @@
-# ORBExtractor(based by orbslam2)
+# ORBExtractor(based on orbslam2)
 **Authors:** [liuzhenbo](https://www.zhihu.com/people/liuzhenbo)
 
 **29 Nov 2019**: First submit
 
 To better understand the feature extractor strategy of orbslam2, I separate orb-feature extractor code from orbslam2 project.
-so,**ORBExtractor** is a orb feature detector which is based by [orbslam2](https://github.com/raulmur/ORB_SLAM2).
+so, **ORBExtractor** is a feature detector way which is based on [orbslam2](https://github.com/raulmur/ORB_SLAM2).
 
 # 1. Prerequisites
 I have tested the library in **Ubuntu 18.04**
@@ -32,3 +32,7 @@ build -j4
 cd bin
 ./ORBextractor ../pictures/liu2.jpg ../param/orb.yaml
 
+## Provide two results
+[image text]!
+
+(https://github.com/slaming/ORBExtractor/blob/master/screenshots/liu1.jpg)
