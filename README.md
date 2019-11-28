@@ -20,12 +20,21 @@ Clone the repository:
 ```
 git clone https://github.com/slaming/ORBExtractor
 ```
-
+```
 cd ORBExtractor
+```
+```
 mkdir build
+```
+```
 cd build
+```
+```
 cmake ..
+```
+```
 build -j4
+```
 
 # 3.Examples(main.cpp)
 
