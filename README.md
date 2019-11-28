@@ -38,8 +38,12 @@ build -j4
 
 # 3.Examples(main.cpp)
 
+```
 cd bin
+```
+```
 ./ORBextractor ../pictures/liu2.jpg ../param/orb.yaml
+```
 
 ## Provide two results
 ### First
