@@ -1,5 +1,5 @@
 # ORBExtractor(based on orbslam2)
-**Authors:** [刘振博](https://www.zhihu.com/people/liuzhenbo)
+**Authors:** [Liu Zhenbo](https://www.zhihu.com/people/liuzhenbo)
 
 **29 Nov 2019**: First submit
 
