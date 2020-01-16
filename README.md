@@ -1,6 +1,6 @@
-# ORBExtractor(based on orbslam2)try_branch
+# ORBExtractor(based on orbslam2)
 
-**Authors:** [Liu Zhenbo](https://www.zhihu.com/people/liuzhenbo)
+**Authors:** [Liu Zhenbo]
 
 **29 Nov 2019**: First submit
 
